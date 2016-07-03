@@ -11,3 +11,6 @@ Happa8's dotfiles
 
 ##Image  
 ![image](./dotfiles.jpg)
+
+##License
+MIT License
